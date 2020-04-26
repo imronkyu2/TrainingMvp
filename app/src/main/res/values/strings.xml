@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TraningMVP</string>
+    <string-array name="user_Id">
+        <item>1001</item>
+        <item>1002</item>
+        <item>1003</item>
+        <item>1004</item>
+        <item>1005</item>
+    </string-array>
+    <string-array name="firstName">
+        <item>Andi</item>
+        <item>Purtra</item>
+        <item>Ani</item>
+        <item>Rehan</item>
+        <item>Siska</item>
+    </string-array>
+    <string-array name="lastName">
+        <item>Hermanto</item>
+        <item>Sulung</item>
+        <item>Siantar</item>
+        <item>Mahardika</item>
+        <item>Aminah</item>
+    </string-array>
+    <string-array name="password">
+        <item>P211k</item>
+        <item>P21yy</item>
+        <item>P21bn</item>
+        <item>P2hmk</item>
+        <item>P288k</item>
+    </string-array>
+    <string-array name="confirmPassword">
+        <item>P211k</item>
+        <item>P21yy</item>
+        <item>P21bn</item>
+        <item>P2hmk</item>
+        <item>P288k</item>
+    </string-array>
+    <string-array name="phone">
+        <item>+6285621042001</item>
+        <item>+6285621042002</item>
+        <item>+6285621042003</item>
+        <item>+6285621042004</item>
+        <item>+6285621042005</item>
+    </string-array>
+</resources>
